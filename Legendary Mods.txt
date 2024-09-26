@@ -1,0 +1,217 @@
+#--------------------------------------------------------
+# Weapons
+#--------------------------------------------------------
+# Anti-Personnel
++20% damage against humans.
+
+# Bashing
+Deals octuple damage when gun bashing.
+
+# Berserker
+Does more damage the less armor one has. 
+
+# Cornered
+Damage increases as health decreases, up to 50%.
+
+# Disassembler
++50% damage against robots. 
+
+# Extended Mag
+Doubles the base magazine capacity.
+
+# Exterminator
++30% damage against aliens.
+
+# Furious
+Each consecutive hit deals more damage.
+
+# Instigating
+Deals double damage to targets with full health.
+
+# Lawful
++20% damage to Spacer and Ecliptic enemies.
+
+# Oxygenated
+Hold-breath time when aiming using a scoped weapon is increased.
+
+# Space-Adept
++50% damage while in space.
+
+# Chilling
+25% chance to freeze target.
+
+# Corrosive
+25% chance to deal corrosive damage and reduces the targets' armor over 6 seconds.
+Cooldown for effect reduced to 5 seconds.
+
+# Crippling
+Deals +30% damage on the next attack after hitting a target's limbs.
+
+# Handloading
+Volatile rounds that are designed to pack a bigger punch, but aren't as stable and can fail on occasion.
+
+# Hitman
++15% damage while aiming.
+
+# Incendiary 
+25% chance to deal incendiary damage.
+Cooldown for effect reduced to 5 seconds.
+
+# Lacerate
+25% chance to apply a bleed effect to the target.
+
+# Med Theft
+10% chance that humans drop up to 5 extra Med Packs on death.
+
+# Poison
+25% chance to deal poison damage that slows the target by 75%.
+Cooldown for effect reduced to 5 seconds.
+
+# Radioactive
+25% chance to deal radioactive damage that demoralizes the target for 12 seconds.
+Cooldown for effect reduced to 5 seconds.
+
+# Rapid
++25% increase in attack speed.
+
+# Staggering
+15% chance to stagger enemies. 
+
+# Swashbuckling
+Human enemies drop more credits, between 250 to 500 more.
+
+# Concussive
+15% chance to knock down targets.
+
+# Despondent
+25% chance to demoralize a target. 
+
+# Elemental
+5% chance to deal Corrosive, Radiation, Poison, or Incendiary damage.
+Cooldown for effect reduced to 5 seconds.
+
+# Explosive
+15% chance to switch ammunition to explosive rounds.
+
+# Frenzy
+25% chance to frenzy a target.
+
+# One Inch Punch
+Rounds fire in a shotgun-like spread.
+
+# Shattering
+Break through even the strongest armor, reducing enemy damage resistance by 30%.
+
+# Skip Shot
+Every third shot fires two projectiles at once.
+
+# Tesla
+15% chance that shots will emit electricity where they land that damages and slows nearby targets.
+
+# Titanium
+Premium build materials make this weapon light as a feather.
+
+#--------------------------------------------------------
+# Armor
+#--------------------------------------------------------
+# Chameleon
+Blend with the environment while sneaking and not moving.
+
+# Bolstering
+Grants up to +100 Energy resistance and Physical resistance, the lower your health.
+
+# Anti-Ballistic
+-15% incoming Physical damage from ranged weapons.
+
+# Beast Hunter
+-15% damage from Alien enemies.
+
+# Ablative
+-15% incoming Energy damage.
+
+# Combat Veteran
+-15% damage from Human enemies.
+
+# Sturdy
+-15% incoming melee damage.
+
+# Technician
+-15% damage from Robot enemies.
+
+# Auto-Medic
+Automatically use a Med Pack when hit and health is below 25%, once every 60 seconds.
+
+# Resource Hauler
+Resources weigh 25% less.
+
+# Weapon Holsters
+Weapons weigh 50% less.
+
+# Antiseptic
++50 Airborne Resistance.
+
+# Galvanized
++50 Corrosive Resistance.
+
+# Leadlined
++50 Radiation Resistance.
+
+# Liquid Cooled
++50 Thermal Resistance.
+
+# Acrobat
+-50% fall damage.
+
+# Mechanized
++40 carry capacity.
+
+# Repulsing
+10% chance to disarm nearby attackers within 50 meters.
+
+# Incendiary
+25% chance to ignite nearby attackers within 50 meters for damage over 4 seconds.
+
+# Sentinel
+75% chance to reduce damage by 50% while standing still.
+
+# Peacemaker
+Rifles do 10% more damage.
+
+# Mirrored
+20% chance to reflect attacks.
+
+# Reactive
+10% chance to stagger nearby attackers within 50 meters.
+
+#--------------------------------------------------------
+# Helmet
+#--------------------------------------------------------
+# O2 Boosted
++20% oxygen capacity.
+
+# O2 Filter
+-25% oxygen consumption.
+
+# Hacker
++2 max auto attempts that can be banked while hacking.
+
+# Analyzer
++25% damage to scanned targets.
+
+# Sensor Chip
++50% accuracy while firing on the move.
+
+# Headhunter
+Deals +25% damage on the next attack after hitting a target's head.
+
+#--------------------------------------------------------
+# Jetpack
+#--------------------------------------------------------
+# Fastened
++20 carry capacity.
+
+# Armor-Plated
+-10% incoming Physical, Energy, and EM damage.
+
+# Assisted Carry
+Drain 50% less O2.

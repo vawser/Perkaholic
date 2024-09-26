@@ -1,0 +1,48 @@
+#--------------------------------------------------------
+# TODO
+#--------------------------------------------------------
+Add mods for the Cutter
+
+Speed up REV-8
+
+Misc items tagged as X resource can be used in recipes in place of them (e.g. Microscope as 1 Iron)
+ Try two-stage solution: misc item is categorised as 'Deconstrutible X', which is a recipe component of a 'Create Iron' recipe
+
+TODO:
+ Global Var quests not actually applying.
+ 
+#--------------------------------------------------------
+# Base
+#--------------------------------------------------------
+Player carry weight now starts at 200 (not 135).
+
+#--------------------------------------------------------
+# XP
+#--------------------------------------------------------
+Adjusted XP sources and made XP curve flat. 
+ - 1000 XP per level.
+- Applied via VAW_GlobalVars_XP
+
+#--------------------------------------------------------
+# Environmental Afflictions
+#--------------------------------------------------------
+Increased the potency of most affliction symptoms so the need to heal them is higher.
+- Applied via VAW_GlobalVars_ENV
+
+#--------------------------------------------------------
+# Food
+#--------------------------------------------------------
+Increased the HP restored from food significantly.
+- Applied via VAW_GlobalVars_Food
+
+#--------------------------------------------------------
+# Materials
+#--------------------------------------------------------
+Added recipes to the Industrial Workbench for breaking down misc items into raw resources:
+ Aluminum:
+  - Metal Plate
+  - Medical Tweezers
+  - Medical Surgical Tray
+  - Medical Scalpel
+  
+This item can be broken down in to raw materials.

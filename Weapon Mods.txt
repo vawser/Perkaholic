@@ -1,0 +1,14 @@
+#--------------------------------------------------------
+# Changes
+#--------------------------------------------------------
+# Ignition Beams
+Now burn enemies for 100 Energy damage over 10 seconds.
+
+# Tesla Pylons
+Increased AOE of the pylons themselves.
+
+#--------------------------------------------------------
+# Additions
+#--------------------------------------------------------
+# Cutter: Overcharged Receiver
+Boosts range by 25 meters, but reduces hit rate by 10%.

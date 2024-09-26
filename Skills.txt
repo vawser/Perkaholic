@@ -1,0 +1,216 @@
+#--------------------------------------------------------
+# Skills: Base
+#--------------------------------------------------------
+The following abilities are now baseline:
+- Stealth Meter
+- Pickpocket
+- Jetpack
+- Ship Targeting Mode
+
+#--------------------------------------------------------
+# Skills: Physical
+#--------------------------------------------------------
+# Boxing
+Rank 1: Unarmed attacks do 50% more damage and have a 15% chance to knock down opponents.
+Rank 2: Unarmed attacks do 100% more damage and have a 20% chance to knock down opponents. 
+Rank 3: Unarmed attacks do 150% more damage and have a 30% chance to knock down opponents. 
+Rank 4: Unarmed attacks do 200% more damage and have a 50% chance to knock down opponents. No O2 is used when using a power attack. 
+
+# Fitness
+Rank 1: You have 25% more oxygen available.
+Rank 2: You have 50% more oxygen available.
+Rank 3: You have 75% more oxygen available.
+Rank 4: You have 100% more oxygen available. Sprinting and power attacks now use 50% less oxygen.
+
+# Weight Lifting
+Rank 1: Increase total carrying capacity by 100 kilograms.
+Rank 2: Increase total carrying capacity by 150 kilograms.
+Rank 3: Increase total carrying capacity by 200 kilograms.
+Rank 4: Increase total carrying capacity by 250 kilograms. Gain 50% resistance to stagger.
+
+# Wellness
+Rank 1: Increase your maximum health by 25%. 
+Rank 2: Increase your maximum health by 50%. 
+Rank 3: Increase your maximum health by 75%. 
+Rank 4: Increase your maximum health by 100%. 
+
+# Energy Weapon Dissipation
+Rank 1: Energy damage is reduced by 10%. 25% chance to reflect energy damage back to an attacker.
+Rank 2: Energy damage is reduced by 20%. 30% chance to reflect energy damage back to an attacker.
+Rank 3: Energy damage is reduced by 30%. 35% chance to reflect energy damage back to an attacker.
+Rank 4: 40% chance to reflect energy damage back to an attacker.
+
+# Environmental Conditioning
+Rank 1: Gain 50 resistance to Airborne environmental damage.
+Rank 2: Gain 50 resistance to Thermal environmental damage.
+Rank 3: Gain 50 resistance to Corrosive and Radiation environmental damage.
+Rank 4: Reduces chance to gain afflictions from environmental damage sources by 25%.
+
+# Gymnastics 
+Rank 1: Unlock the ability to combat slide. Run faster after combat sliding or mantling.
+Rank 2: Take 50% less fall damage.
+Rank 3: Become more stable while firing in Zero-G. Replenish some O2 after mantling.
+Rank 4: Increased jump height. 
+
+# Pain Tolerance
+Rank 1: Physical damage is reduced by 10%.
+Rank 2: Physical damage is reduced by 20%.
+Rank 3: Physical damage is reduced by 30%.
+Rank 4: 25% chance to ignore physical damage.
+
+# Cellular Regeneration
+Rank 1: 25% chance to recover from injuries naturally.
+Rank 2: 50% chance to recover from injuries naturally.
+Rank 3: 75% chance to recover from injuries naturally.
+Rank 4: 25% chance of not gaining an injury when you otherwise would.
+
+# Decontamination
+Rank 1: 25% chance to recover from infections naturally.
+Rank 2: 50% chance to recover from infections naturally.
+Rank 3: 75% chance to recover from infections naturally.
+Rank 4: 25% chance of not gaining an infection when you otherwise would.
+
+# Martial Arts
+Rank 1: 25% increased chance to crit with a melee or unarmed attack.
+Rank 2: 15% chance to disarm an opponent with a melee or unarmed attack.
+Rank 3: While unarmed or wielding a melee weapon, take 10% less damage.
+Rank 4: Reflect 50% damage back when blocking a melee or unarmed attack.
+
+# Neurostrikes
+Rank 1: Unarmed attacks now do 20 EM damage. 
+Rank 2: 20% chance to stun an NPC with an unarmed attack.
+Rank 3: 30% chance to stun an NPC with an unarmed attack. After stunning an enemy, you also knock down any enemies within close range.
+Rank 4: Unarmed attacks now do 50 EM damage.
+
+# Rejuvenation
+Rank 1: Slowly regenerate 1% health per second whilst outside of combat.
+Rank 2: Regenerate 2% health per second whilst outside of combat.
+Rank 3: Regenerate 3% health per second whilst outside of combat, and 0.5% health per second whilst in combat.
+Rank 4: Regenerate 5% health per second whilst outside of combat, and 1% health per second whilst in combat.
+
+#--------------------------------------------------------
+# Skills: Social
+#--------------------------------------------------------
+# Commerce
+Rank 1: Vendors now have double their base credits.
+Rank 2: Buy items from vendors for 25% less.
+Rank 3: Sell items to vendors for 50% more.
+Rank 4: Vendors now have triple their base credits.
+
+# Gastronomy
+Rank 1: You can craft specialty food and drinks, and research additional recipes at a Research Lab. 10% chance when crafting food and drinks to save resources.
+Rank 2: You can research and craft gourmet food and drinks. 30% chance when crafting food and drinks to save resources.
+Rank 3: You can research and craft food and drink delicacies. 50% chance when crafting food and drinks to save resources.
+Rank 4: You can research and craft exotic recipes. 80% chance when crafting food and drinks to save resources.
+
+# Persuasion
+Rank 1: 25% increased chance of success when persuading someone.
+Rank 2: 50% increased chance of success when persuading someone.
+Rank 3: 75% increased chance of success when persuading someone.
+Rank 4: Increases XP reward from successful persuasion by 100%.
+
+# Theft
+Rank 1: 25% greater chance to successfully pickpocket.
+Rank 2: 50% greater chance to successfully pickpocket.
+Rank 3: 75% greater chance to successfully pickpocket.
+Rank 4: 95% greater chance to successfully pickpocket. Can now pickpocket holstered weapons.
+
+# Isolation
+- Moved to Master Tier
+
+# Leadership
+- Moved to Master Tier
+
+# Ship Command
+- Moved to Expert Tier
+
+# Xenosociology
+- Moved to Advanced Tier
+
+#--------------------------------------------------------
+# Skills: Combat
+#--------------------------------------------------------
+# Heavy Weapon Certification
+Rank 4: Gain 25% Critical Hit chance while aiming down sights with a heavy weapon.
+
+# Incapacitation
+Rank 1: EM weapons do 100% more damage.
+Rank 2: EM weapons do 200% more damage.
+Rank 3: EM weapons do 300% more damage.
+Rank 4: EM weapons have a 15% chance to do 1000% EM damage.
+
+# Marksmanship
+Rank 1: Increase critical hit chance with ranged weapons by 10%.
+Rank 2: Increase critical hit chance with ranged weapons by 20%.
+Rank 3: Increase critical hit chance with ranged weapons by 30%.
+Rank 4: Critical hits using a ranged weapon without a scope do double damage and those with scopes knock down enemies on the next shot.
+
+#--------------------------------------------------------
+# Skills: Science
+#--------------------------------------------------------
+# Astrodynamics
+Rank 1: Increase grav jump range of jump drives by 25%.
+Rank 2: Increase grav jump range of jump drives by 50%.
+Rank 3: Increase grav jump range of jump drives by 75%.
+Rank 4: Reduced fuel cost of jump drives by 75%.
+
+# Geology
+Rank 1: Doubles the amount of common and uncommon inorganic resources from surface objects.
+Rank 2: Doubles the amount of rare inorganic resources from surface objects.
+Rank 3: Doubles the amount of exotic inorganic resources from surface objects.
+Rank 4: Triples the amount of inorganic resources of all types from surface objects.
+
+# Medicine
+Rank 4: Med Packs, Trauma Packs, and Emergency Kits restore 50% additional Health 50% faster, and have a 50% chance to cure an affliction.
+
+# Astrophysics
+Rank 1: You can scan the moons of your current planet. You have a 25% chance to discover a trait when scanning.
+Rank 2: You can scan any planet or moon in this system. You have a 50% chance to discover a trait when scanning.
+Rank 3: You can scan any planet or moon within 16 Light Years. You have a 75% chance to discover a trait when scanning.
+Rank 4: You can scan any planet or moon within 30 Light Years. You have a 100% chance to discover a trait when scanning.
+
+# Chemistry
+Rank 4: Crafting chems has a 25% chance to triple the amount created.
+
+#--------------------------------------------------------
+# Skills: Tech
+#--------------------------------------------------------
+# Boost Pack Training
+Rank 1: Using a boost pack expends 10% less fuel.
+Rank 2: Using a boost pack expends 25% less fuel.
+Rank 3: Boost pack fuel regenerates 10% more quickly.
+Rank 4: Boost pack fuel regenerates 25% more quickly.
+
+# Security
+Rank 4: Expend a digipick to eliminate keys that aren't required to solve the puzzle. 5 auto attempts can be banked. Locked safes now contain additional credits.
+
+# Targeting Control Systems
+Rank 1: Time to lock onto enemy ships is reduced by 15%. 
+Rank 2: Target-locked ships fire at you 25% slower. You have a 10% increased chance of critically hitting a target-locked ship.
+Rank 3: Time to lock onto enemy ships is reduced by 30%. You have a 20% increased chance of critically hitting a target-locked ship.
+Rank 4: Time to lock onto enemy ships is reduced by 60%. Deal 20% increased system damage in targeting mode.
+
+# Engine Systems
+Rank 1: Your ship's top speed is increased by 20%.
+Rank 2: Ship boosts last 25% longer and recharge 20% quicker.
+Rank 3: Your ship's top speed is increased by 30%.
+Rank 4: While boosting, all enemies disengage the player and can only reacquire them as a target after the player stops boosting.
+
+# Payloads
+Rank 1: Ship cargo holds have 25% more capacity.
+Rank 2: Ship cargo holds have 50% more capacity.
+Rank 3: Ship cargo holds have 75% more capacity.
+Rank 4: Ship cargo holds have 100% more capacity.
+
+# Shield Systems
+Rank 1: Your ship has 25% increased shield capacity.
+Rank 2: Your ship has 50% increased shield capacity.
+Rank 3: Your ship has 100% increased shield capacity.
+Rank 4: Your shields have a 25% chance to resist 100% of all damage received.
+
+# Starship Engineering
+Rank 1: All ship systems repair 50% faster.
+Rank 2: Ship systems have 25% increased damage mitigation.
+Rank 3: All ship systems repair 100% faster.
+Rank 4: 10% chance when repairing one block of a system will repair the entire system.
+

@@ -1,0 +1,33 @@
+#--------------------------------------------------------
+# Inorganic
+#--------------------------------------------------------
+Aluminum
+Argon
+Chlorine
+Copper
+Helium-3
+Iron
+Lead
+Nickel
+Uranium
+Water
+Alkanes
+Benzene
+Beryllium
+Chlorosilanes
+Cobalt
+Fluorine
+Iridium
+Silver
+Tungsten
+
+#--------------------------------------------------------
+# Organic
+#--------------------------------------------------------
+Fiber 
+Metabolic Agent
+Nutrient (Spice)
+Sealant (Cosmetic)
+Toxin (Antimicrobial/Pigment)
+Structural (Membrane/Ornamental)
+

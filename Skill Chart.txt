@@ -1,0 +1,129 @@
+#--------------------------------------------------------
+# Skill Chart
+#--------------------------------------------------------
+# Physical
+Novice      
+- Boxing 
+- Fitness 
+- Stealth
+- Weight Lifting 
+- Wellness
+
+Advanced    
+- Energy Weapon Dissipation 
+- Environmental Conditioning 
+- Gymnastics 
+- Nutrition 
+- Pain Tolerance
+
+Expert      
+- Cellular Regeneration 
+- Decontamination 
+- Martial Arts
+
+Master      
+- Concealment 
+- Neurostrikes
+- Rejuvenation
+
+# Social
+Novice      
+- Commerce 
+- Gastronomy 
+- Persuasion 
+- Scavenging 
+- Theft
+
+Advanced    
+- Deception 
+- Diplomacy 
+- Intimidation 
+- Negotiation 
+- Isolation
+
+Expert      
+- Instigation 
+- Leadership 
+- Outpost Management
+
+Master      
+- Manipulation 
+- Ship Command 
+- Xenosociology
+
+# Combat
+Novice 	    
+- Ballistics 
+- Dueling 
+- Lasers 
+- Pistol Certification 
+- Shotgun Certification
+
+Advanced 	
+- Demolitions 
+- Heavy Weapon Certification 
+- Incapacitation 
+- Rifle Certification
+
+Expert 	    
+- Marksmanship 
+- Particle Beams 
+- Rapid Reloading 
+- Sniper Certification 
+- Targeting
+
+Master 	    
+- Armor Penetration 
+- Crippling 
+- Sharpshooting
+
+# Science
+Novice 	    
+- Astrodynamics 
+- Geology 
+- Medicine 
+- Research Methods 
+- Surveying
+
+Advanced 	
+- Botany 
+- Scanning 
+- Spacesuit Design 
+- Weapon Engineering 
+- Zoology
+
+Expert 	    
+- Astrophysics 
+- Chemistry 
+- Outpost Engineering
+
+Master 	    
+- Aneutronic Fusion 
+- Planetary Habitation 
+- Special Projects
+
+# Tech
+Novice      
+- Ballistic Weapon Systems 
+- Boost Pack Training 
+- Piloting 
+- Security 
+- Targeting Control Systems
+
+Advanced 	
+- Energy Weapon Systems 
+- Engine Systems 
+- Payloads 
+- Shield Systems
+
+Expert 	    
+- Missile Weapon Systems 
+- Particle Beam Weapon Systems 
+- Robotics 
+- Starship Design 
+- Starship Engineering
+
+Master 	    
+- Automated Weapon Systems 
+- Boost Assault Training 
+- EM Weapon Systems
