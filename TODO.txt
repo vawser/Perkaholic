@@ -1,0 +1,8 @@
+#--------------------------------------------------------
+# TODO
+#--------------------------------------------------------
+Add mods for the Cutter
+
+Speed up REV-8
+
+Upgradable base weapons: uncommon/rare/exotic materials for it only found in POI locations or as very expensive vendor items
