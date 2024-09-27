@@ -1,0 +1,93 @@
+#--------------------------------------------------------
+# Crew Skills
+#--------------------------------------------------------
+# Aneutronic Fusion
+Rank 1: Ship Reactors produce 1 additional energy.
+
+# Aneutronic Fusion (Outpost)
+Rank 1: Outposts produce 1/2/3 additional energy.
+
+# Ballistics
+Rank 1: Ballistic weapons do 20% more damage
+Rank 2: Ballistic weapons do 30% more damage
+Rank 3: Ballistic weapons do 50% more damage
+Rank 4: Rank used only for companions.
+
+# Botany
+Rank 1: ? Gives Botany resources randomly when near ship
+Rank 2: ? Gives Botany resources randomly when near ship
+Rank 3: ? Gives Botany resources randomly when near ship
+Rank 4: ? Gives Botany resources randomly when near ship
+
+# Chemistry
+Rank 1: ? Gives Chemistry resources randomly when near ship
+
+# Concealment
+Rank 1: Crew: Running no longer breaks stealth.
+
+# Demolitions
+Rank 1: Explosives do 10% more damage.
+Rank 2: Explosives do 25% more damage.
+Rank 3: Explosives do 50% more damage.
+
+# Energy Weapon Dissipation
+Rank 1: Crew: Energy damage is reduced by 10%
+Rank 2: Crew: Energy damage is reduced by 20%
+Rank 3: Crew: Energy damage is reduced by 30%
+
+# Gastronomy
+Rank 1: ? Gives Food resources randomly when near ship
+Rank 2: ? Gives Food resources randomly when near ship
+Rank 3: ? Gives Food resources randomly when near ship
+Rank 4: ? Gives Food resources randomly when near ship
+
+# Geology
+Rank 1: ? Gives inorganic resources randomly when near ship
+Rank 2: ? Gives inorganic resources randomly when near ship
+Rank 3: ? Gives inorganic resources randomly when near ship
+Rank 4: ? Gives inorganic resources randomly when near ship
+
+# Incapacitation
+Rank 1: Crew: EM weapons do 20% more damage
+Rank 2: Crew: EM weapons do 40% more damage
+Rank 3: Crew: EM weapons do 60% more damage
+
+# Lasers
+Rank 1: Crew: Energy weapons do 20% more damage
+Rank 2: Crew: Energy weapons do 50% more damage
+Rank 3: Crew: Energy weapons do 100% more damage
+Rank 4: Rank used only for companions.
+
+# Leadership
+Rank 1: Crew member does not add to the crew total at their assignment location
+
+# Marksmanship
+Rank 1: Crew: Chance for a critical hit increased by 3%
+Rank 2: Crew: Chance for a critical hit increased by 5%
+Rank 3: Crew: Chance for a critical hit increased by 10%
+
+# Medicine
+Rank 1: ? Gives medicine resources randomly when near ship
+
+# Outpost Engineering
+Rank 1: Crew: Outpost Manufactured Material production increased by +10%.
+Rank 2: Crew: Outpost Manufactured Material production production increased by +20%.
+Rank 3: Crew: Outpost Manufactured Material production production increased by +30%.
+
+# Outpost Management
+Rank 1: Crew: Outposts produce all resources 5% faster.
+Rank 2: Crew: Outposts produce all resouces 10% faster.
+Rank 3: Crew: Outposts produce all resouces 15% faster.
+
+# Outpost Organics
+Rank 1: Outpost Organic production +10%
+Rank 2: Outpost Organic production +20%
+Rank 3: Outpost Organic production +30%
+
+# Outpost Engineering (Minibot Sanitation)
+Rank 1: Outpost Inorganic production +10%
+
+# Pain Tolerance
+Rank 1: Crew: Physical damage is reduced by 10%
+Rank 2: Crew: Physical damage is reduced by 20%
+Rank 3: Crew: Physical damage is reduced by 30%

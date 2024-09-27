@@ -1,0 +1,8 @@
+#--------------------------------------------------------
+# Combat Styles
+#--------------------------------------------------------
+Increased accuracy.
+Increased aggression actions.
+Decreased avoid and evasion actions.
+Decreased wait actions.
+
