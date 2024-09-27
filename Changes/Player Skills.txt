@@ -130,8 +130,47 @@ Rank 4: 95% greater chance to successfully pickpocket. Can now pickpocket holste
 #--------------------------------------------------------
 # Skills: Combat
 #--------------------------------------------------------
+# Ballistics
+Rank 1: Ballistic weapons magazines are 30% larger.
+Rank 2: Ballistic weapons range is increased by 30%.
+Rank 3: Ballistic weapons fire rate is 30% quicker.
+Rank 4: Ballistic weapon shots have a 5% chance to disarm nearby attackers within 50 meters.
+
 # Heavy Weapon Certification
+Rank 1: Heavy weapons reload 30% faster.
+Rank 2: Heavy weapons weigh 50% less.
+Rank 3: Heavy weapons range is increased by 100%.
 Rank 4: Gain 25% Critical Hit chance while aiming down sights with a heavy weapon.
+
+# Lasers
+Rank 1: Laser weapons are 50% more accurate.
+Rank 2: Laser weapons reload 30% faster.
+Rank 3: Laser weapons shoot twice as many projectiles.
+Rank 4: Laser weapons have a 15% chance to set a target on fire.
+
+# Particle Beams
+Rank 1: Particle beam weapons range is increased by 30%.
+Rank 2: Particle beam weapons magazines are 100% larger.
+Rank 3: Particle beam weapons reload 20% faster.
+Rank 4: Particle beam weapons gain an additional 10% chance to critical hit.
+
+# Pistol Certification
+Rank 1: Pistols are 50% more accurate.
+Rank 2: Pistol magazines are 100% larger.
+Rank 3: Pistols reload 30% faster.
+Rank 4: Pistol kills grant +50% critical hit chance for 5 seconds.
+
+# Rifle Certification
+Rank 1: Rifles do 100% more damage if a headshot is landed.
+Rank 2: Rifles shoot 25% quicker.
+Rank 3: Rifles reload 30% faster while you're standing still.
+Rank 4: Gain 100% additional XP when killing an enemy with a headshot from a rifle.
+
+# Shotgun Certification
+Rank 1: Shotguns reload 20% faster.
+Rank 2: Shotguns are 50% more accurate.
+Rank 3: Shotgun magazines are 50% larger. 
+Rank 4: Shotgun kills grant a 15% chance to stun enemies with shotguns for 20 seconds.
 
 # Incapacitation
 Rank 1: EM weapons do 100% more damage.
@@ -214,3 +253,8 @@ Rank 2: Ship systems have 25% increased damage mitigation.
 Rank 3: All ship systems repair 100% faster.
 Rank 4: 10% chance when repairing one block of a system will repair the entire system.
 
+# Piloting
+Rank 1: Unlocks the ability to research how to pilot Class-B and Class-C ships. You can now utilize ship thrusters. 
+Rank 2: Increased ship turning rate and maneuverability by 25%.
+Rank 3: Increased ship turning rate and maneuverability by 50%.
+Rank 4: Increased ship turning rate and maneuverability by 100%.
