@@ -3,10 +3,11 @@
 #--------------------------------------------------------
 Increased the base vendor credits each merchant has.
 
-Player buy price is now 10* of innate price by default.
+Player buy price is now 400% of innate price by default.
+Player sell price is now 35% of innate price by default.
 
 #--------------------------------------------------------
 # Items
 #--------------------------------------------------------
-Adjusted the base price of all items so they sell for appropriate amounts.
+
 

@@ -13,24 +13,23 @@ Add more mastery research projects
 Adjust the 'unlock' only perks:
 gastronomy, surveying, botany, spacesuit design, weapon engineering, zoology, chemistry, outpost engineering, and starship design
 
+Apply the Geology resource boost to Botany output too.
+
 # Enemies
 Increase min enemy level
 
 Increase spawn rate of small fauna (especially scavengers)
 Significantly increase the health of high level fauna (as in level 60+)
 
-# Weapons
-Increase damage of grenades and mines
-
 # Temples
 Change puzzle to Starborn fight instead
 
-# Vendors
-Rebalance item prices
-Increased player base buy price % (e.g. 1000%),
+# Items
+Boost survey data item price so it sells for a decent chunk even with the debuff
 
-Example:
-Frag Grande goes down to 35 credits per.
-Base % at 2000%, means player buys for 700 credits per.
+Reduce the ivalue modifier that legendary omods apply so item price isn't stupidly high
 
-Buy adjustments reduce the innate debuff.
+Adjust credit cost on the research projects
+
+# Resources
+Add Refined X (e.g. Refined Iron) that costs lots of base resource. Refined X sells for a chunk of credits.
