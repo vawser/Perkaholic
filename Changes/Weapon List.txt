@@ -1,0 +1,120 @@
+#--------------------------------------------------------
+# Ballistic
+#--------------------------------------------------------
+# Rifle
+AA99
+Beowulf
+Kodama
+Lawgiver
+Maelstrom
+MagPulse
+Tombstone
+
+# Assault Rifle
+DrumBeat
+Grendel
+MagShear
+Old Earth Assault Rifle
+
+# Sniper Rifle
+Hard Target
+MagSniper
+Old Earth Hunting Rifle
+
+# Pistol
+Eon
+Kraken
+Old Earth Pistol
+MagShot
+Rattler
+Razorback
+Regulator
+Ember
+Sidestar
+Urban Eagle
+XM-2311
+
+# Heavy Gun
+Auto-Rivet
+Magstorm
+Microgun
+
+# Shotgun
+Breach
+Coachman
+Pacifier
+Old Earth Shotgun
+Shotty
+
+# Explosive
+Bridger
+Ecliptic Pistol
+
+#--------------------------------------------------------
+# Laser
+#--------------------------------------------------------
+# Heavy
+Arc Welder
+Cutter
+
+# Rifle
+Equinox
+Orion
+
+# Pistol
+Va'ruun Starshard
+Solstice
+
+#--------------------------------------------------------
+# Particle Beam
+#--------------------------------------------------------
+# Shotgun
+Big Bang
+
+# Rifle
+Va'ruun Inflictor
+
+# Pistol
+Novalight
+
+#--------------------------------------------------------
+# EM
+#--------------------------------------------------------
+# Rifle
+Novablast Disruptor
+
+#--------------------------------------------------------
+# Melee
+#--------------------------------------------------------
+# 1H
+Barrow Knife
+Combat Knife
+Cutlass
+Ripshank
+Osmium Dagger
+Va'ruun Painblade
+Rescue Axe
+Tanto
+Fists
+Wakizashi
+
+#--------------------------------------------------------
+# Exposive
+#--------------------------------------------------------
+# Rocket Launcher
+Negotiator
+
+# Grenade
+Frag Grenade
+Impact Grenade
+Incendiary Grenade
+Particle Grenade
+Shrapnel Grenade
+
+# Mine
+Fragmentation Mine
+Cryo Mine
+Inferno Mine
+Stun Mine
+Tesla Pylon
+Toxic Gas Mine

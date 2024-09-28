@@ -1,29 +1,28 @@
 #--------------------------------------------------------
 # Projects
 #--------------------------------------------------------
-Increased cost of research in general to account for the increased rate of resources.
 
 #--------------------------------------------------------
 # Exploration Mastery
 #--------------------------------------------------------
-# Packrat I/II/III/IV/V
+# Packrat 1/2/3/4/5
 Increases overall carrying capacity by 100/200/300/400/500 kilograms.
 
 #--------------------------------------------------------
 # Combat Mastery
 #--------------------------------------------------------
-# Tricks of the Trade I/II/III/IV/V
+# Cutter Proficiency 1/2/3/4/5
 Cutter now deals 20/40/60/80/100% more damage.
 
 #--------------------------------------------------------
 # Space Mastery
 #--------------------------------------------------------
-# Space Aptitude I
+# Space Aptitude 1
 Unlocks the ability to pilot Class-B ships.
 
-# Space Aptitude II
+# Space Aptitude 2
 Unlocks the ability to pilot Class-C ships.
 
-# Fusion Efficiency I/II/III/IV/V
+# Fusion Efficiency 1/2/3/4/5
 Increase ship reactor unit of power output by 2/4/6/8/10 overall.
 

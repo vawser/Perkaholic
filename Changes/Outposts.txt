@@ -1,0 +1,7 @@
+#--------------------------------------------------------
+# Storage
+#--------------------------------------------------------
+Increase storage size of the outpost containers by factor of 10.
+ Small: 75 -> 750
+ Medium: 150 -> 1500
+ Large: 300 -> 3000

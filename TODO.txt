@@ -1,19 +1,36 @@
 #--------------------------------------------------------
 # Ideas
 #--------------------------------------------------------
-Research Projects:
- - Analysis projects:
-  - Kill X of type creature, gather Y drop unique to them. 
-  - Research project requires Z amount of Y drop: grant buff perk
-
- - Refinement projects:
-  - Repeatable projects that boost specific weapon proficiency (e.g. +1% damage per completion)
- 
 Craftable Legendary slots
  - Craft legendary modifiers as mods from rare loot + credits
 
 #--------------------------------------------------------
 # TODO
 #--------------------------------------------------------
+Add more mastery research projects
 
+# Perks
+Adjust the 'unlock' only perks:
+gastronomy, surveying, botany, spacesuit design, weapon engineering, zoology, chemistry, outpost engineering, and starship design
 
+# Enemies
+Increase min enemy level
+
+Increase spawn rate of small fauna (especially scavengers)
+Significantly increase the health of high level fauna (as in level 60+)
+
+# Weapons
+Increase damage of grenades and mines
+
+# Temples
+Change puzzle to Starborn fight instead
+
+# Vendors
+Rebalance item prices
+Increased player base buy price % (e.g. 1000%),
+
+Example:
+Frag Grande goes down to 35 credits per.
+Base % at 2000%, means player buys for 700 credits per.
+
+Buy adjustments reduce the innate debuff.

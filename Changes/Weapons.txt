@@ -1,0 +1,35 @@
+#--------------------------------------------------------
+# Weapons
+#--------------------------------------------------------
+# Fists
+Added default Fists as a equipable weapon so you can quick-swap to them. Given to the player automatically on game start.
+
+# Frag Grenade
+Increased damage and explosion radius.
+
+# Impact Grenade
+Increased damage and explosion radius.
+
+# Incendiary Grenade 
+Increased damage and explosion radius.
+
+# Particle Grenade 
+Increased damage and explosion radius.
+
+# Shrapnel Grenade 
+Increased damage and explosion radius.
+
+# Fragmentation Mine
+Increased damage and decreased proximity timer. 
+
+# Cryo Mine
+Increased damage and decreased proximity timer. 
+
+# Inferno Mine
+Increased damage and decreased proximity timer. 
+
+# Stun Mine
+Decreased proximity timer. 
+
+# Tesla Pylon
+Increased damage and decreased proximity timer. 
