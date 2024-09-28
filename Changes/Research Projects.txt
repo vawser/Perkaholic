@@ -1,28 +1,29 @@
 #--------------------------------------------------------
 # Projects
 #--------------------------------------------------------
+Increased the costs of vanilla projects significantly.
 
 #--------------------------------------------------------
-# Exploration Mastery
+# Personal Development Projects
 #--------------------------------------------------------
-# Packrat 1/2/3/4/5
-Increases overall carrying capacity by 100/200/300/400/500 kilograms.
-
-#--------------------------------------------------------
-# Combat Mastery
-#--------------------------------------------------------
-# Cutter Proficiency 1/2/3/4/5
-Cutter now deals 20/40/60/80/100% more damage.
-
-#--------------------------------------------------------
-# Space Mastery
-#--------------------------------------------------------
-# Space Aptitude 1
+# Class-B Piloting
 Unlocks the ability to pilot Class-B ships.
 
-# Space Aptitude 2
+# Class-C Piloting
 Unlocks the ability to pilot Class-C ships.
 
-# Fusion Efficiency 1/2/3/4/5
+# Outpost Engineering
+Unlocks the ability to construct and researching additional outpost modules.
+
+#--------------------------------------------------------
+# Engineering Projects
+#--------------------------------------------------------
+# Storage Augmentation
+Increases overall carrying capacity by 100/200/300/400/500 kilograms.
+
+# Cutter Enhancements
+Cutter now deals 20/40/60/80/100% more damage.
+
+# Reactor Enhancements
 Increase ship reactor unit of power output by 2/4/6/8/10 overall.
 

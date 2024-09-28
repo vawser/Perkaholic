@@ -211,6 +211,12 @@ Rank 4: You can scan any planet or moon within 30 Light Years. You have a 100% c
 # Chemistry
 Rank 4: Crafting chems has a 25% chance to triple the amount created.
 
+# Outpost Engineering
+Rank 1: Outpost modules now cost 10% fewer resources to build. 
+Rank 2: Outpost modules now cost 20% fewer resources to build. 
+Rank 3: Outpost modules now cost 35% fewer resources to build. 
+Rank 4: Outpost modules now cost 50% fewer resources to build. 
+
 #--------------------------------------------------------
 # Skills: Tech
 #--------------------------------------------------------
