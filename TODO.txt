@@ -1,15 +1,13 @@
 #--------------------------------------------------------
 # Ideas
 #--------------------------------------------------------
-Craftable Legendary slots
- - Craft legendary modifiers as mods from rare loot + credits
 
 #--------------------------------------------------------
 # TODO
 #--------------------------------------------------------
 # Perks
 Adjust the 'unlock' only perks:
-gastronomy, surveying, botany, spacesuit design, weapon engineering, zoology, chemistry, and starship design
+gastronomy, surveying, botany, zoology, chemistry, and starship design
 
 # Enemies
 Increase min enemy level
@@ -20,5 +18,3 @@ Significantly increase the health of high level fauna (as in level 60+)
 # Temples
 Change puzzle to Starborn fight instead
 
-# Research Projects
-Up to resource cost massively

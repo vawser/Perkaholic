@@ -2,51 +2,51 @@
 # Inorganic
 #--------------------------------------------------------
 # Common
-Aluminum (Metal)
-Argon (Inert Atmosphere)
-Chlorine (Cleaning/Drugs/Antiseptic)
-Copper (Metal)
-Helium-3 (Machinery/Fuel)
-Iron (Metal)
-Lead (Metal)
-Nickel (Metal)
-Uranium (Fuel/Scientific Tools)
+Aluminum
+Argon 
+Chlorine 
+Copper 
+Helium-3 
+Iron 
+Lead 
+Nickel 
+Uranium
 Water 
 
 # Uncommon
-Alkanes (Oils)
-Benzene (Plastics)
-Beryllium (Machinery)
-Chlorosilanes (Silcon surfaces)
-Cobalt (Machinery/Tools)
-Fluorine (Solvents/Plastics)
-Iridium (Alloy: Compass, Pen tips)
-Silver (Jewellery and Tableware)
-Tungsten (Electrodes/Heating Elements)
+Alkanes
+Benzene 
+Beryllium 
+Chlorosilanes
+Cobalt 
+Fluorine 
+Iridium
+Silver
+Tungsten 
 
 # Rare
-Carboxylic Acids (Soaps/Medicines)
-Gold (Metal)
-Lithium (Batteries)
-Mercury (Measuring tools)
-Neodymium (Magnets)
-Platinum (Electronic Components)
-Tantalum (Electronic Components)
-Tetrafluorides (Electronics)
-Titanium (Metal)
-Vanadium (Metal)
+Carboxylic Acids
+Gold 
+Lithium 
+Mercury 
+Neodymium 
+Platinum 
+Tantalum 
+Tetrafluorides 
+Titanium 
+Vanadium 
 
 # Exotic
-Antimony (Batteries/Cables/Bullets)
-Caesium (Drilling Fluid/Catalyst Promoter)
-Dysprosium (Magnets)
-Europium (Screens/Lights)
-Ionic Liquids (Electronics)
-Neon (Lights/Machinery)
-Palladium (Fuel Cell/Catalyst)
-Plutonium (Fuel)
-Xenon (Machinery)
-Ytterbium (Lasers/Machinery)
+Antimony 
+Caesium
+Dysprosium 
+Europium 
+Ionic Liquids 
+Neon
+Palladium 
+Plutonium 
+Xenon 
+Ytterbium 
 
 #--------------------------------------------------------
 # Organic

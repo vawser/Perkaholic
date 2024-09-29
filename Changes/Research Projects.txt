@@ -13,7 +13,7 @@ Unlocks the ability to pilot Class-B ships.
 Unlocks the ability to pilot Class-C ships.
 
 # Outpost Engineering
-Unlocks the ability to construct and researching additional outpost modules.
+Unlocks the ability to construct and research additional outpost modules.
 
 #--------------------------------------------------------
 # Engineering Projects

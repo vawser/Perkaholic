@@ -217,6 +217,18 @@ Rank 2: Outpost modules now cost 20% fewer resources to build.
 Rank 3: Outpost modules now cost 35% fewer resources to build. 
 Rank 4: Outpost modules now cost 50% fewer resources to build. 
 
+# Spacesuit Design
+Rank 1: Increases armor rating by 25%.
+Rank 2: Increases armor rating by 25%.
+Rank 3: Increases armor rating by 25%.
+Rank 4: Increases armor rating by 100%. Construction of spacesuit, helmet, and pack mods have a 10% chance to not cost resources.
+
+# Weapon Engineering
+Rank 1: All weapons deal 5% more damage.
+Rank 2: All weapons deal 10% more damage. Construction of weapon mods have a 10% chance to not cost resources.
+Rank 3: All weapons deal 15% more damage.
+Rank 4: All weapons deal 20% more damage. Construction of weapon mods have a 20% chance to not cost resources.
+
 #--------------------------------------------------------
 # Skills: Tech
 #--------------------------------------------------------
