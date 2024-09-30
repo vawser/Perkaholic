@@ -1,0 +1,528 @@
+#--------------------------------------------------------
+# Physical
+#--------------------------------------------------------
+# Novice 
+- Gymnastics 
+ 1. Unlock the ability to combat slide. Run faster after combat sliding or mantling.
+ 2. Move faster in Zero-G. Take 50% less fall damage.
+ 3. Become more stable while firing in Zero-G. Replenish some O2 after mantling.
+ 4. Increased jump height.
+ 
+- Fitness 
+ 1. You have 10% more oxygen available.
+ 2. You have 20% more oxygen available.
+ 3. You have 30% more oxygen available.
+ 4. Sprinting and power attacks now use significantly less oxygen.
+ 
+- Stealth 
+ 1. Adds a Stealth Meter. You are 25% more difficult to detect when sneaking. Suppressed weapons do an additional 5% sneak attack damage. 
+ 2. Upgrades the Stealth Meter. You are 50% more difficult to detect when sneaking. Suppressed weapons do an additional 10% sneak attack damage.
+ 3. You are 75% more difficult to detect when sneaking. Suppressed weapons do an additional 15% sneak attack damage.
+ 4. You are 100% more difficult to detect when sneaking. Suppressed weapons do an additional 20% sneak attack damage. Doors you interact with while in stealth no longer alert enemies.
+ 
+- Weight Lifting 
+ 1. Increase total carrying capacity by 100 kilograms.
+ 2. Increase total carrying capacity by 200 kilograms.
+ 3. Increase total carrying capacity by 300 kilograms.
+ 4. Increase total carrying capacity by 400 kilograms. Gain 50% resistance to stagger.
+ 
+- Wellness
+ 1. Increase your maximum health by 10%. 
+ 2. Increase your maximum health by 20%. 
+ 3. Increase your maximum health by 30%. 
+ 4. Increase your maximum health by 50%.
+ 
+# Advanced         
+- Boxing 
+ 1. Unarmed attacks do 25% more damage. 25% less O2 used when using a power attack.
+ 2. Unarmed attacks do 50% more damage. 50% less O2 used when using a power attack.
+ 3. Unarmed attacks do 75% more damage. While in a fight and unarmed, running consumes 30% less O2.
+ 4. Unarmed attacks do 100% more damage and have a chance to knock down opponents.
+ 
+- Environmental Conditioning 
+ 1. Gain 100 resistance to Airborne environmental damage.
+ 2. Gain 100 resistance to Thermal environmental damage.
+ 3. Gain 100 resistance to Corrosive and Radiation environmental damage.
+ 4. Reduces chance to gain afflictions from environmental damage sources by 25%.
+ 
+- Nutrition 
+ 1. Food and drink are 10% more effective.
+ 2. Food and drink are now 20% more effective.
+ 3. Food and drink are now 30% more effective.
+ 4. Food and drink are now 50% more effective.
+ 
+- Neurostrikes
+ 1. 20% chance to stun an NPC with an unarmed attack.
+ 2. Unarmed attacks now do an additional 100 EM damage.
+ 3. 50% chance to stun an NPC with an unarmed attack.
+ 4. After stunning an enemy, you also knock down any enemies within close range.
+ 
+- Martial Arts
+ 1. 15% increased chance to critical hit with a melee or unarmed attack.
+ 2. 15% chance to disarm an opponent with a melee or unarmed power attack.
+ 3. While unarmed or wielding a melee weapon, take 10% less damage.
+ 4. Reflect 50% damage back when blocking a melee or unarmed attack.
+ 
+# Expert      
+- Cellular Regeneration 
+ 1. 10% increased chance to recover from injuries naturally.
+ 2. 15% increased chance to recover from injuries naturally.
+ 3. 20% increased chance to recover from injuries naturally.
+ 4. 25% increased chance to recover from injuries naturally, and to not gain an injury when you otherwise would.
+ 
+- Decontamination 
+ 1. 10% increased chance to recover from infections naturally.
+ 2. 15% increased chance to recover from infections naturally.
+ 3. 20% increased chance to recover from infections naturally.
+ 4. 25% increased chance to recover from infections naturally, and to not gain an injury when you otherwise would.
+ 
+- Rejuvenation
+ 1. Regenerate health outside of combat at the rate of 1% per second.
+ 2. Regenerate health outside of combat at the rate of 1.5% per second.
+ 3. Regenerate health outside of combat at the rate of 2% per second, and 1% per second whilst in combat.
+ 4. Regenerate health outside of combat at the rate of 3% per second, and 1.5% per second whilst in combat.
+ 
+# Master      
+- Energy Weapon Dissipation 
+ 1. Energy damage is reduced by 10%.
+ 2. Energy damage is reduced by 20%.
+ 3. Energy damage is reduced by 30%.
+ 4. 25% chance to reflect energy damage back to an attacker.
+ 
+- Pain Tolerance
+ 1. Physical damage is reduced by 10%.
+ 2. Physical damage is reduced by 20%.
+ 3. Physical damage is reduced by 30%.
+ 4. 10% chance to ignore physical damage.
+ 
+- Concealment 
+ 1. You no longer set off enemy mines. Ranged sneak attacks do 250% normal damage and your melee sneak attacks do 400% normal damage.
+ 2. Running while sneaking doesn't affect stealth. Ranged sneak attacks do 300% normal damage and your melee sneak attacks do 500% normal damage.
+ 3. You gain a Chameleon-like ability when completely still and sneaking. Ranged sneak attacks do 350% normal damage and your melee sneak attacks do 800% normal damage.
+ 4. Engaging stealth causes distant enemies to lose you. Ranged sneak attacks do 400% normal damage and your melee sneak attacks do 1000% normal damage.
+ 
+#--------------------------------------------------------
+# Social
+#--------------------------------------------------------
+# Novice      
+- Commerce 
+ 1. Buy items for 10% less and sell them for 10% more.
+ 2. Buy items for 20% less and sell them for 20% more.
+ 3. Buy items for 30% less and sell them for 30% more.
+ 4. Buy items for 50% less and sell them for 50% more.
+ 
+- Persuasion 
+ 1. 10% increased chance of success when persuading someone.
+ 2. 20% increased chance of success when persuading someone.
+ 3. 30% increased chance of success when persuading someone.
+ 4. 50% increased chance of success when persuading someone.
+ 
+- Scavenging 
+ 1. 40% chance that you'll find extra credits when searching containers.
+ 2. 40% chance that you'll find extra ammo when searching containers.
+ 3. 40% chance that you'll find extra aid items, like Med Packs or chems, when searching containers.
+ 4. Tracked resources will get highlighted when using the hand scanner.
+ 
+- Theft
+ 1. Unlock the ability to pickpocket targets.
+ 2. 30% greater chance to successfully pickpocket.
+ 3. 60% greater chance to successfully pickpocket.
+ 4. 90% greater chance to successfully pickpocket. Can now pickpocket holstered weapons.
+ 
+- Ship Command 
+ 1. You can have up to four active crew members.
+ 2. You can have up to five active crew members.
+ 3. You can have up to six active crew members.
+ 4. You can have up to eight active crew members.
+ 
+# Advanced    
+- Deception 
+ 1. Ships 10% stronger will automatically surrender to piracy demands. Enemy contraband scans are 10% less effective.
+ 2. Ships 20% stronger will automatically surrender to piracy demands. Enemy contraband scans are 20% less effective.
+ 3. Ships 30% stronger will automatically surrender to piracy demands. Enemy contraband scans are 30% less effective.
+ 4. Ships 50% stronger will automatically surrender to piracy demands. Enemy contraband scans are 50% less effective.
+ 
+- Negotiation 
+ 1. You now have access to Bribery in speech challenges.
+ 2. Reduces bribery cost by 25%.
+ 3. Reduces bribery cost by 50%.
+ 4. Occasionally, bribery won't cost any money.
+ 
+- Outpost Management
+ 1. Additional cargo links can be placed at outposts.
+ 2. Additional robots can be constructed at outposts.
+ 3. Additional crew can be assigned at outposts.
+ 4. Outpost extractors produce twice as fast.
+ 
+- Gastronomy 
+ 1. You can craft specialty food and drinks, and research additional recipes at a Research Lab.
+ 2. You can research and craft gourmet food and drinks.
+ 3. You can research and craft food and drink delicacies.
+ 4. Crafting food and drinks has a 50% chance to save the resources. You can research and craft exotic recipes.
+ 
+# Expert     
+- Intimidation 
+ 1. You can force a target NPC at or below your level to flee for a limited time.
+ 2. You can force a target NPC up to 10 levels higher than you to flee for a limited time.
+ 3. You can force a target NPC up to 20 levels higher than you to flee for a limited time.
+ 4. Intimidated targets now flee for substantial amount of time.
+ 
+- Diplomacy 
+ 1. You can force a target NPC at or below your level to stop fighting for a while.
+ 2. You can force a target NPC up to 10 levels higher than you to stop fighting for a while.
+ 3. You can force a target NPC up to 20 levels higher than you to stop fighting for a while.
+ 4. You can force target NPCs to permanently stop fighting (unless they're attacked again).
+  
+- Instigation 
+ 1. You can force a target NPC at or below your level to attack their allies for a limited time.
+ 2. You can force a target NPC up to 10 levels higher than you to attack their allies for a limited time.
+ 3. You can force a target NPC up to 20 levels higher than you to attack their allies for a limited time.
+ 4. Enemies affected by Instigation will attack their allies until they are dead.
+ 
+- Xenosociology
+ 1. You can force a target alien creature up to 10 levels higher than you to stop fighting for a limited time.
+ 2. You can force a target alien creature up to 10 levels higher than you to flee for a limited time.
+ 3. You can force a target alien creature up to 10 levels higher than you to attack their allies for a limited time.
+ 4. You can force a target creature up to 10 levels higher than you to obey commands for a limited time.
+ 
+# Master      
+- Manipulation 
+ 1. You can force a target NPC at or below your level to obey commands for a limited time.
+ 2. You can force a target NPC up to 10 levels higher than you to obey commands for a limited time.
+ 3. You can force a target NPC up to 20 levels higher than you to obey commands for a limited time.
+ 4. Manipulated targets now obey commands for a substantial amount of time.
+ 
+- Isolation
+ 1. Do +10% weapon damage and gain 15 Damage Resistance for each Spacesuit and Helmet equipped when you don't have a companion or any crew.
+ 2. Do +20% weapon damage and gain 30 Damage Resistance for each Spacesuit and Helmet equipped when you don't have a companion or any crew.
+ 3. Do +30% weapon damage and gain 45 Damage Resistance for each Spacesuit and Helmet equipped when you don't have a companion or any crew.
+ 4. Do +40% weapon damage and gain 60 Damage Resistance for each Spacesuit and Helmet equipped when you don't have a companion or any crew.
+ 
+- Leadership 
+ 1. Companions gain affinity 100% faster.
+ 2. Companions have 200 more health and 200 kilograms higher carrying capacity.
+ 3. Companions will occasionally heal you when you get low health. 
+ 4. Doubles the bonuses of Combat and Physical Crew Skills on Companions. Companions have a chance to pick themselves up from a downed state.
+ 
+#--------------------------------------------------------
+# Combat
+#--------------------------------------------------------
+# Novice 	    
+- Ballistics 
+ 1. Ballistic weapons are 50% more accurate when hip-fired.
+ 2. Ballistic weapon magazines are 100% larger.
+ 3. Ballistic weapons range is increased by 30%.
+ 4. Ballistic weapons do 25% more damage.
+ 
+- Dueling 
+ 1. Melee weapons do 25% more damage. Take 10% less damage while wielding a melee weapon.
+ 2. Melee kills make you run 20% faster for 10 seconds.
+ 3. Melee weapons do 50% more damage. Take 15% less damage while wielding a melee weapon.
+ 4. Melee kills heal you for 10% of your health.
+ 
+- Lasers 
+ 1. Laser weapons shoot twice as many projectiles.
+ 2. Laser weapons range is increased by 50%.
+ 3. Laser weapons fire 30% faster.
+ 4. Laser weapons have a 15% chance to set a target on fire.
+ 
+- Demolitions 
+ 1. Throwing grenades now shows a trajectory arc. Explosions have a 25% larger radius.
+ 2. Explosives do 25% more damage.
+ 3. Reduce damage taken from explosives by 25%.
+ 4. All previous bonuses are doubled. 
+ 
+- Particle Beams 
+ 1. Particle beam weapons fire 30% faster.
+ 2. Particle beam weapons weigh 50% less.
+ 3. Particle beam weapon magazines are 100% larger.
+ 4. Particle beam weapons have an increased 10% critical hit chance.
+ 
+# Advanced 	
+- Pistol Certification 
+ 1. Pistols do 10% more damage.
+ 2. Pistols do 25% more damage.
+ 3. Pistols do 50% more damage.
+ 4. Pistol kills grant an increased 25% critical hit chance for 5 seconds.
+ 
+- Shotgun Certification
+ 1. Shotguns do 10% more damage.
+ 2. Shotguns do 20% more damage.
+ 3. Shotguns do 30% more damage.
+ 4. Shotgun kills grant a 5% chance to stun additional targets with shotguns for 20 seconds.
+ 
+- Heavy Weapon Certification 
+ 1. Heavy weapons do 10% more damage.
+ 2. Heavy weapons do 20% more damage.
+ 3. Heavy weapons do 30% more damage.
+ 4. Gain 25% Physical resistance while aiming down sights with a heavy weapon.
+ 
+- Rifle Certification
+ 1. Rifles do 10% more damage.
+ 2. Rifles do 20% more damage.
+ 3. Rifles do 30% more damage.
+ 4. Reload rifles 30% faster while you're standing still.
+ 
+- Sniper Certification 
+ 1. Scoped weapons are steadier and have less sway.
+ 2. You can hold your breath longer with scoped weapons.
+ 3. Headshots while aiming with a scoped weapon have an increased 25% critical hit chance.
+ 4. Scoped weapons do 50% more damage while using the scope.
+ 
+# Expert 	    
+- Marksmanship 
+ 1. Increase critical hit chance with non-automatic ranged weapons by 3%.
+ 2. Increase critical hit chance with non-automatic ranged weapons by 8%.
+ 3. Increase critical hit chance with non-automatic ranged weapons by 15%.
+ 4. Critical hits using a non-automatic ranged weapon without a scope do double damage and those with scopes knock down enemies on the next shot.
+ 
+- Rapid Reloading 
+ 1. No longer get interrupted while reloading.
+ 2. Reload all weapons 25% faster.
+ 3. Reload all weapons 50% faster.
+ 4. 10% chance on hitting enemies to increase reload speed for all weapons by 50% for 15 seconds.
+ 
+- Incapacitation 
+ 1. EM weapons do 50% more damage.
+ 2. EM weapons do 100% more damage.
+ 3. EM weapons do 150% more damage.
+ 4. EM weapons have a 15% chance to do 300% EM damage.
+ 
+- Targeting
+ 1. Increases hip-fire accuracy by 10%. Increases hip-fire weapon range by 10%. Marks up to one enemy within 25m that damages you.
+ 2. Increases hip-fire accuracy by 20%. Increases hip-fire weapon range by 20%. Marks up to two enemies within 50m that damage you.
+ 3. Increases hip-fire accuracy by 30%. Increases hip-fire weapon range by 30%. Marks up to three enemies within 75m that damage you.
+ 4. Increases hip-fire accuracy by 50%. Increases hip-fire weapon range by 50%. Marks up to four enemies within 100m that damage you. 10% chance to disarm targets hit when shooting without aiming.
+ 
+# Master 	    
+- Armor Penetration 
+ 1. Attacks ignore 15% of a target's armor.
+ 2. Attacks ignore 30% of a target's armor.
+ 3. Attacks ignore 50% of a target's armor.
+ 4. Enemy armor is decreased by 25% for 6 seconds after a critical hit.
+ 
+- Crippling 
+ 1. Human enemies have a 75% increased chance to enter a downed state after taking enough damage.
+ 2. Humanoid enemies no longer naturally recover from a downed state.
+ 3. Human enemies now can enter a downed state earlier.
+ 4. Previous ranks now apply to all enemy types. You now do 100% more damage to downed enemies.
+ 
+- Sharpshooting
+ 1. Increase headshot critical damage by 50% with ranged weapons.
+ 2. Increase critical damage to enemy legs by 50% with ranged weapons.
+ 3. Increase all critical damage to enemies by 50% with ranged weapons.
+ 4. Ranged critical hit kills increase your critical hit chance with all ranged weapons by 25% for 20 seconds.
+ 
+
+#--------------------------------------------------------
+# Science
+#--------------------------------------------------------
+# Novice 	    
+- Astrodynamics 
+ 1. Increase grav jump range of jump drives by 25%.
+ 2. Reduced fuel cost of jump drives by 25%.
+ 3. Increased grav jump range and reduced fuel cost of jump drives by 50%.
+ 4. Reduced fuel cost of jump drives by 75%.
+ 
+- Geology 
+ 1. Get more common and uncommon inorganic resources from surface objects.
+ 2. Get more rare inorganic resources from surface objects.
+ 3. Get more exotic inorganic resources from surface objects.
+ 4. Occasionally harvest additional rarer resources from surface objects.
+ 
+- Medicine 
+ 1. Med Packs, Trauma Packs, and Emergency Kits restore 10% additional Health 10% faster.
+ 2. Med Packs, Trauma Packs, and Emergency Kits restore 20% additional Health 20% faster.
+ 3. Med Packs, Trauma Packs, and Emergency Kits restore 30% additional Health 30% faster.
+ 4. Med Packs, Trauma Packs, and Emergency Kits restore 50% additional Health 50% faster, and have a chance to cure an affliction.
+ 
+- Research Methods 
+ 1. Resources required to craft items and complete research projects is reduced by 10%.
+ 2. Resources required to craft items and complete research projects is reduced by 20%.
+ 3. Resources required to craft items and complete research projects is reduced by 40%.
+ 4. Sudden developments during research are twice as common. Resources required to craft items and complete research projects is reduced by 60%.
+ 
+- Surveying
+ 1. Adds an optional zoom to the hand scanner, and scan distance is increased to 20 meters.
+ 2. Adds another level of zoom to the hand scanner, and scan distance is increased to 30 meters.
+ 3. Adds another level of zoom to the hand scanner, and scan distance is increased to 40 meters.
+ 4. Adds another level of zoom to the hand scanner, and scan distance is increased to 50 meters.
+ 
+# Advanced 	
+- Botany 
+ 1. Get more common and uncommon organic resources from plants, learn additional info about them from the scanner, and allows some plants to be cultivated at your outposts.
+ 2. Get more rare organic resources from plants, and learn information about them more quickly using the scanner.
+ 3. Get more exotic organic resources from plants, and learn information about them more quickly using the scanner.
+ 4. Occasionally harvest additional rarer resources from plants, and learn information about them more quickly using the scanner.
+ 
+- Scanning 
+ 1. You can detect uncommon inorganic resources on planet and moon surfaces, and more information about ships in space.
+ 2. You can detect rare inorganic resources on planet and moon surfaces, and more specific information about ships in space.
+ 3. You can detect exotic inorganic resources on planet and moon surfaces, and gain better combat information on ships in space.
+ 4. You can detect unique inorganic resources on planet and moon surfaces, and gain a complete list of cargo on ships in space.
+ 
+- Spacesuit Design 
+ 1. You can craft improved spacesuit, helmet, and pack mods, and research additional mods at a Research Lab.
+ 2. You can research and craft superior spacesuit, helmet, and pack mods.
+ 3. You can research and craft cutting-edge spacesuit, helmet, and pack mods.
+ 4. Construction of spacesuit, helmet, and pack mods occasionally doesn't cost resources.
+ 
+- Weapon Engineering 
+ 1. You can craft improved weapon mods at a Weapon Workbench, and research additional weapon mods at a Research Lab.
+ 2. You can research and craft superior weapon mods.
+ 3. You can research and craft cutting-edge weapon mods.
+ 4. You can research and craft master-level weapon mods. Construction of weapon mods has a 10% chance not to cost resources.
+ 
+- Zoology
+ 1. Get more common organic resources from creatures and harvest from them without harming them, learn additional info about them from the scanner, and allows you to produce animal resources at your outposts.
+ 2. Get more uncommon organic resources from creatures, and learn information about them more quickly using the scanner.
+ 3. Get more rare organic resources from creatures, and learn information about them more quickly using the scanner.
+ 4. Occasionally harvest additional rarer resources from creatures, and learn information about them more quickly using the scanner.
+ 
+# Expert 	    
+- Astrophysics 
+ 1. You can scan the moons of your current planet. You have a 25% chance to discover a trait when scanning.
+ 2. You can scan any planet or moon in this system. You have a 50% chance to discover a trait when scanning.
+ 3. You can scan any planet or moon within 16 Light Years. You have a 75% chance to discover a trait when scanning.
+ 4. You can scan any planet or moon within 30 Light Years. You have a 100% chance to discover a trait when scanning.
+ 
+- Chemistry 
+ 1. You can create improved chems, and research additional chems at a Research Lab.
+ 2. You can research and create superior chems.
+ 3. You can research and create cutting-edge chems.
+ 4. Crafting chems occasionally triples the amount created.
+ 
+- Outpost Engineering
+ 1. You can construct improved outpost modules, and research additional modules at a Research Lab.
+ 2. You can research and construct superior outpost modules.
+ 3. You can research and construct cutting-edge outpost modules.
+ 4. Outpost modules now cost 50% fewer resources to build. 
+ 
+# Master 	    
+- Aneutronic Fusion 
+ 1. Ship reactors produce 1 extra unit of power.
+ 2. Ship reactors produce 2 extra units of power.
+ 3. Ship reactors produce 3 extra units of power.
+ 4. Ship reactors produce 5 extra units of power.
+ 
+- Planetary Habitation 
+ 1. You can build outposts on planets with extreme temperatures (Deep Freeze and Inferno). Increase the maximum number of Outposts you can build by 4.
+ 2. You can build outposts on planets with extreme pressure. Increase the maximum number of Outposts you can build by 8.
+ 3. You can build outposts on planets with toxic or corrosive atmospheres. Increase the maximum number of Outposts you can build by 12.
+ 4. You can build outposts on planets with extreme gravity. Increase the maximum number of Outposts you can build by 16.
+ 
+- Special Projects
+ 1. You can research experimental projects at a Research Lab.
+ 2. You can craft rare manufactured components at an Industrial Workbench.
+ 3. You can craft exotic manufactured components at an Industrial Workbench.
+ 4. You can craft unique manufactured components at an Industrial Workbench. Outpost extractors have a 20% chance to produce additional resources.
+ 
+#--------------------------------------------------------
+# Tech
+#--------------------------------------------------------
+# Novice      
+- Ballistic Weapon Systems 
+ 1. Ballistic ship weapons have 10% increased damage and cost 20% less to use in Targeting Mode.
+ 2. Ballistic ship weapons have 20% increased damage and recharge 15% faster.
+ 3. Ballistic ship weapons have 30% increased damage and recharge 30% faster.
+ 4. Ballistic ship weapons do 50% more damage to individual systems.
+ 
+- Boost Pack Training 
+ 1. You can now utilize boost packs.
+ 2. Using a boost pack expends 20% less fuel.
+ 3. Boost pack fuel regenerates more quickly.
+ 4. Doubles previous bonuses.
+ 
+- Piloting 
+ 1. You can now utilize ship thrusters. 
+ 2. Increased ship turning rate and maneuverability by 25%.
+ 3. Unlock the ability to pilot Class B ships. Increased ship turning rate and maneuverability by 50%.
+ 4. Unlock the ability to pilot Class C ships. Increased ship turning rate and maneuverability by 100%.
+ 
+- Security 
+ 1. You can attempt to hack Advanced locks, and 2 auto attempts can be banked.
+ 2. You can attempt to hack Expert locks, and 3 auto attempts can be banked. Rings now turn blue when the pick can be slotted.
+ 3. You can attempt to hack Master-level locks, and 4 auto attempts can be banked.
+ 4. Expend a digipick to eliminate keys that aren't required to solve the puzzle. 5 auto attempts can be banked.
+ 
+- Targeting Control Systems
+ 1. Unlocks ship targeting functionality.
+ 2. Time to lock onto enemy ships is reduced by 15%. Target-locked ships fire at you 25% slower.
+ 3. Time to lock onto enemy ships is reduced by 30%. You have a 10% increased chance of critically hitting a target-locked ship.
+ 4. Time to lock onto enemy ships is reduced by 60%. Deal 20% increased system damage in targeting mode.
+ 
+# Advanced 	
+- Energy Weapon Systems 
+ 1. Energy ship weapons have 10% increased damage and cost 15% less to use in Targeting Mode.
+ 2. Energy ship weapons have 20% increased damage and cost 30% less to use in Targeting Mode.
+ 3. Energy ship weapons have 30% increased damage and cost 45% less to use in Targeting Mode.
+ 4. Energy ship weapons recharge 30% faster.
+ 
+- Engine Systems 
+ 1. Your ship's top speed is increased by 10%.
+ 2. Ship boosts last longer and the cooldown is shorter.
+ 3. Your ship's top speed is increased by 20%.
+ 4. While boosting, all enemies disengage the player and can only reacquire them as a target after the player stops boosting.
+ 
+- Payloads 
+ 1. Ship cargo holds have 25% more capacity.
+ 2. Ship cargo holds have 50% more capacity.
+ 3. Ship cargo holds have 75% more capacity.
+ 4. Ship cargo holds have 100% more capacity.
+ 
+- Shield Systems
+ 1. Your ship has 25% increased shield capacity.
+ 2. Your ship has 50% increased shield capacity.
+ 3. Your ship has 75% increased shield capacity.
+ 4. Your shields will occasionally resist 100% of all damage received.
+ 
+# Expert 	    
+- Missile Weapon Systems 
+ 1. Ship missile weapons do 10% more damage, and their Targeting mode cost is reduced by 20%.
+ 2. Ship missile weapons do 20% more damage, and their Targeting mode cost is reduced by 40%.
+ 3. Ship missile weapons do 30% more damage, and their Targeting mode cost is reduced by 60%.
+ 4. Ship missiles have a 20% increased Range, Travel Speed, and Reload Speed.
+ 
+- Particle Beam Weapon Systems 
+ 1. Ship particle beam weapons do 10% more damage, and Targeting mode cost is reduced by 10%.
+ 2. Ship particle beam weapons do 20% more damage, and Targeting mode cost is reduced by 20%.
+ 3. Ship particle beam weapons do 30% more damage, and Targeting mode cost is reduced by 30%.
+ 4. Increased critical hit chance with ship particle beam weapons.
+ 
+- Robotics 
+ 1. You deal 10% more damage to Robots and Turrets. You can force a target robot up to 10 levels higher than you to stop fighting for a limited time.
+ 2. You deal 20% more damage to Robots and Turrets. You can force a target robot up to 10 levels higher than you to flee for a limited time.
+ 3. You deal 30% more damage to Robots and Turrets. You can force a target robot up to 10 levels higher than you to attack their allies for a limited time.
+ 4. You can force a target robot up to 10 levels higher than you to obey commands for a limited time.
+ 
+- Starship Design 
+ 1. Allows the installation of improved ship modules.
+ 2. Allows the installation of superior ship modules.
+ 3. Allows the installation of cutting-edge ship modules.
+ 4. Allows the installation of experimental ship modules.
+ 
+- Starship Engineering
+ 1. All ship systems repair 10% faster.
+ 2. Ship systems have 25% increased damage mitigation.
+ 3. All ship systems repair 25% faster.
+ 4. Occasionally, repairing one block of a system will repair the entire system.
+ 
+# Master 	    
+- Automated Weapon Systems 
+ 1. Automated ship weapons do 10% more damage and reduce all targeting mode costs by 20%.
+ 2. Automated ship weapons do 20% more damage and reduce all targeting mode costs by 30%. Your ship takes 20% less damage while in targeting mode.
+ 3. Automated ship weapons do 30% more damage and reduce all targeting mode costs by 40%. Increases crit chance against targeted sub-systems by 20%.
+ 4. Ship turret weapons recharge 40% faster and do 20% more damage to targeted sub-systems.
+ 
+- Boost Assault Training 
+ 1. Nearby enemies take damage when you boost and have a chance to catch on fire.
+ 2. Chance to knockdown nearby enemies when you boost.
+ 3. Aiming down sights while boosting will let you hover in place. Fuel is still expended until empty.
+ 4. While hovering, time slows down and the world moves 70% slower around you.
+ 
+- EM Weapon Systems
+ 1. EM ship weapons have 10% increased damage and cost 15% less to use in Targeting Mode.
+ 2. EM ship weapons have 20% increased damage and cost 30% less to use in Targeting Mode.
+ 3. EM ship weapons have 30% increased damage and cost 45% less to use in Targeting Mode.
+ 4. EM ship weapons have a small chance of instantly disabling enemy engines.
+ 
