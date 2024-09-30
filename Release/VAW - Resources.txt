@@ -8,3 +8,5 @@ Inorganic resource nodes now grant more depending on the type:
 Organic resource drops from enemies now drop higher amounts.
 
 Rewards from random item crew perks now award more items.
+
+Increased item value of the inorganic resources.
