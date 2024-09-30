@@ -5,12 +5,7 @@
 #--------------------------------------------------------
 # TODO
 #--------------------------------------------------------
-# Enemies
-Increase spawn rate of small fauna (especially scavengers)
-Significantly increase the health of high level fauna (as in level 60+)
 
-# Temples
-Change puzzle to Starborn fight instead
-
-Fix Argon mineral deposit
-Add the optional bool for the Cutter receiver
+VAW - Weapons
+VAW - AI
+VAW - Outposts
