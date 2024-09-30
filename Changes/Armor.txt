@@ -1,0 +1,5 @@
+#--------------------------------------------------------
+# Armor
+#--------------------------------------------------------
+Removed prefix naming.
+Removed different quality tiers (all are pegged to Tier 0).

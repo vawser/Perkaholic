@@ -9,3 +9,4 @@ Player sell price is now 50% of innate price by default.
 #--------------------------------------------------------
 # Items
 #--------------------------------------------------------
+Adjusted the value and weight of the inorganic resources.

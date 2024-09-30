@@ -1,6 +1,9 @@
 #--------------------------------------------------------
 # Weapons
 #--------------------------------------------------------
+Removed prefix naming.
+Removed different quality tiers (all are pegged to Tier 0).
+
 # Fists
 Added default Fists as a equipable weapon so you can quick-swap to them. Given to the player automatically on game start.
 
@@ -33,3 +36,22 @@ Decreased proximity timer.
 
 # Tesla Pylon
 Increased damage and decreased proximity timer. 
+
+#--------------------------------------------------------
+# Unique Weapons
+#--------------------------------------------------------
+Unique weapons now get unique modifiers that are distinct from the normal legendary pool of modifiers.
+
+Unique weapons may now have 4 modifiers as a rule (1 to 3 legendary + 1 unique)
+
+# Empowered 
+Damage dealt is twice as high.
+
+# True Shot
+Critical hits are twice as powerful.
+
+# Crack Shot
+Effective range is twice as far.
+
+# Ceaseless Capacity
+Ammunition capacity is massively increased.

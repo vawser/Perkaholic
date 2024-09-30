@@ -5,16 +5,12 @@
 #--------------------------------------------------------
 # TODO
 #--------------------------------------------------------
-# Perks
-Adjust the 'unlock' only perks:
-gastronomy, surveying, botany, zoology, chemistry, and starship design
-
 # Enemies
-Increase min enemy level
-
 Increase spawn rate of small fauna (especially scavengers)
 Significantly increase the health of high level fauna (as in level 60+)
 
 # Temples
 Change puzzle to Starborn fight instead
 
+Fix Argon mineral deposit
+Add the optional bool for the Cutter receiver
