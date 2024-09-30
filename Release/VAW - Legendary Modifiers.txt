@@ -1,0 +1,6 @@
+Adjusted the legendary modifiers for weapons and armor:
+ - Random chance effects are now consistently 15%.
+ - Random chance effect cooldowns (for Incendiary, etc) are now 5 seconds (was 10).
+ - Increased the potency of some weak effects.
+ - Removed the penalty from Space-Adept.
+ - Applied carry weight adjustment to the relevant modifiers.

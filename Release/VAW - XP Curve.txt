@@ -1,0 +1,8 @@
+Re-balances the XP curve of the game: all levels are now 1000 XP.
+ - Quests now grant more XP in general.
+ - Exploration activities, such as discovering areas, scanning flora, fauna and planets now grant more XP.
+ - Temple puzzle now grants more XP.
+ - Crafting, cooking and research no longer grant XP.
+ - Lockpicking now grants more XP.
+ - Speech challenges now grant more XP.
+ 

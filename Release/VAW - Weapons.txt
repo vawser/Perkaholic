@@ -1,0 +1,4 @@
+Increased the damage of grenades.
+Increased the radius of some grenades.
+Increased the damage of mines.
+Reduced the trigger time for mines.

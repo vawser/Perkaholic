@@ -1,0 +1,3 @@
+Increased the base vendor credits all merchants have massively.
+Reduced the time interval between each wait tick.
+Added random legendary leveled list to outfitter vendor lists.

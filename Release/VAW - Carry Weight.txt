@@ -1,0 +1,5 @@
+Increased base carry weight to 500.
+Increased effect of carry weight modifiers from player and crew perks.
+Increased effect of carry weight modifiers from legendary modifiers.
+Increased size of outpost containers.
+Increased size of ship containers.

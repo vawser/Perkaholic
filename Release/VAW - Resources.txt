@@ -1,0 +1,10 @@
+Inorganic resource nodes now grant more depending on the type:
+ - Common: 10
+ - Uncommon: 8
+ - Rare: 6
+ - Exotic: 4
+ - Unique: 2
+ 
+Organic resource drops from enemies now drop higher amounts.
+
+Rewards from random item crew perks now award more items.

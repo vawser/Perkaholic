@@ -1,0 +1,3 @@
+Removes the prefixes that are appended to equipment names, affecting:
+ - Weapons
+ - Armor
